@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+}
+
+      /* Default height for small devices */
+      #intro-example {
+        height: 400px;
+      }
+  
+      /* Height for devices larger than 992px */
+      @media (min-width: 992px) {
+        #intro-example {
+          height: 600px;
+        }
+      }
